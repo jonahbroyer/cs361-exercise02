@@ -1,1 +1,1 @@
-# Mangle a name by reversing it or "borgifying" it.
+Mangle a name by reversing it or "borgifying" it.
